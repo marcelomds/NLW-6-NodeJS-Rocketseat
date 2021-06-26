@@ -3,6 +3,7 @@ import { v4 as uuid } from "uuid";
 import { Tag } from "../Tag/Tag";
 import { User } from "../User/User";
 
+
 @Entity("compliments")
 class Compliment {
 
@@ -42,5 +43,6 @@ class Compliment {
         }
     }
 }
+
 
 export { Compliment };
