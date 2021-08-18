@@ -24,4 +24,4 @@
   
     [ x ] Não é permitido cadastrar elogios para usuários inválidos.
   
-    [ ] O usuário precisa está autenticado na aplicação.
+    [ x ] O usuário precisa está autenticado na aplicação.
